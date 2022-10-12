@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.usa.ciclo3</groupId>
-	<artifactId>proyectoManuel</artifactId>
+	<artifactId>proyectoFrank</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>proyectoManuel</name>
+	<name>proyectoFrank</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
